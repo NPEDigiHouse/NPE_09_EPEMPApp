@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "270490444890",
+    "firebase_url": "https://kknbede-default-rtdb.firebaseio.com",
+    "project_id": "kknbede",
+    "storage_bucket": "kknbede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270490444890:android:4990d14f4658855d576463",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270490444890-e80p1075mkhqit58l2d2hbnch8mibkuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8rfexhxDYcpGW4FCwCj-_JWteXp3S6jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270490444890-e80p1075mkhqit58l2d2hbnch8mibkuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
